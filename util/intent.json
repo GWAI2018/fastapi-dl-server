@@ -1,0 +1,88 @@
+{"intents": 
+  [
+    { "tag": "District_1",
+      "input": ["Kalutara"],
+      "responses": ["Nithma Pharmacy. Oshan Pharmacy. Samarasingha Pharmacy. Promadix Pharmacy. Suwasetha Pharmcy. Gamini Pharmacy. Jeewasingha Pharmacy. Dasun Pharmacy. Nethma Pharamacy. Chamila Pharmacy."]
+         
+    },
+    {
+      "tag": "District_2",
+      "input": ["Ampara"],
+      "responses":["Rajya Osusala. BIO pharmacy. Welcome pharmacy. T.M.M. Pharmacy. Best Medical. Rajya Osusala Nintavur. APS Pharmacy. Jespa Pharmacy. Ajith Pharmacy. Medicare Pharmacy."]
+        
+    },
+    {
+      "tag": "District_3",
+      "input": ["Anuradhapura"],
+      "responses":["C.P. Mohamed Pharmacy. Chamee Pharmaceuticals (Pvt) Ltd. New Chamee Pharmacy. New Pharmacy. New Prasanna Pharmacy. Queens Pharmacy. Eiffel Pharmacy. Isiwara Pharmacy. New City Pharmacy. Asiri Pharmacy."]
+       
+    },
+    {
+      "tag": "District_4",
+      "input": ["Badulla"],
+      "responses":["Shanthi Medishop. United Pharmacy. Food City -Badulla. New Manoja Pharmacy. Hijra Pharmacy. Thilakna Pharmacy. Attampitiya Pharmacy. Calistro Pharmay. City Pharmacy. Bogahakubura Pharmacy."]
+       
+    },
+    {
+      "tag": "District_5",
+      "input": ["Batticaloe"],
+      "responses":["K.R.Medical. Batticaloa Medical. Sakthi Medical. Ifham Pharmacy. New Fanoona Pharmacy. Central Pharmacy. Jusla Pharmacy. New Life Pharmacy. United Pharmacy. Gayathri Pharmacy."]
+       
+    },
+    {
+      "tag": "District_6",
+      "input": ["Colombo"],
+      "responses":["Food City -Avissawella. Elite Pharmacy. Healthguard Pharmacies, Thalawathugoda. Nawala Chemist. Reward Pharmacy & Grocery. Bambalapitiya Pharmacy. Healthguard Pharmacies, Shangri La. Healthguard Pharmacies, Colombo 03. Healthguard Pharmacies, Colombo 07."]
+       
+    },
+    {
+      "tag": "District_7",
+      "input": ["Galle"],
+      "responses":["Gayathri Pharmacy. Lal Pharmacy. Medi House. Sahanro Pharmacy. Sri Lakshmi Drug stores. Food City -Ambalangoda. Sithuruwana Pharmacy. Elpitiya Medical Hospital (Pvt) Ltd. Isuru Pharmacy. Royal Pharmacy. Priyantha Pharmacy."]
+       
+    },
+    {
+      "tag": "District_8",
+      "input": ["Gampaha"],
+      "responses":["Central Pharmacy. Malitha Pharmacy & Grocery. Ruhunu Pharmacy & Grocery. Sasethra Osusala. Dewmini Pharmacy. Health City Pharmacy. Suwaya Pharmacy. Wijerathne Pharmacy. Kumudu Pharmacy. Janasetha Pharmacy."]
+       
+    },
+    {
+      "tag": "District_9",
+      "input": ["Hambantota"],
+      "responses":["Sanduni Pharmacy & Grocery. Wanigasekara Pharmacy. Gamage Pharmacy. Arogya Pharmacy. Midco Pharmacy. Medi care Pharmacy. Dedunu Pharmacy. Ruhunu Pharmacy. Lanka Pharmacy & Channel Centre. Rajya Osusala."]
+       
+    },
+    {
+      "tag": "District_10",
+      "input": ["Jaffna"],
+      "responses":["Vasantham Pharmacy. Wesco Super Mart. Arokyaa Pharmacy. Super Drugs. Nature Pharmacy. Thanam Medical. Annai Medicals. Ambika Pharmacy. Shanmuga Medicals. Life Care Pharmacy."]
+       
+    },
+    {
+      "tag": "District_11",
+      "input": ["Kandy"],
+      "responses":["Cargills Food city. CCA Pharmacy. Health First Pharmacy. Multi Pharmacy. City Pharmacy. Buwelikada Pharmacy. Dealon Pharmacy. Dealon Pharmacy. Balkrisnan Pharmacy. Suwasahana Pharmacy."]
+       
+    },
+    {
+      "tag": "District_12",
+      "input": ["Kegalle"],
+      "responses":["Globe Pharmacy. Cresent Pharmacy. Global Pharmacy. Orient Pharmacy. Dewalegama Pharmacy. Dilru Pharmacy and Grocery. Sethsuwa Pharmacy. Ruwanwella Pharmacy. Asiri Medical. Kris Medical."]
+       
+    },
+    {
+      "tag": "District_13",
+      "input": ["Kilinochchi"],
+      "responses":["Kashika Pharmacy. Global Pharmacy. City Medical. Murugan Pharmacy."]
+       
+    },
+    {
+      "tag": "District_14",
+      "input": ["Kurunegala"],
+      "responses":["New Pharmacy Holdings. New Rational Pharmacy. Tharindu Pharmacy. Dinunuwan Pharmacy. New Dinunuwan Pharmacy. Nanajeewa Pharmacy. Ishara Pharmacy. City Medicals. The New Pharmacy."]
+       
+    }
+       
+  ]
+}
