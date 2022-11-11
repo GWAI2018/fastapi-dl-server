@@ -5,4 +5,4 @@ numpy
 scikit-learn
 keras
 pandas
-util
+python-utils
