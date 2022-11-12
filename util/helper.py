@@ -78,8 +78,7 @@ tokenizer = Tokenizer()
 
 def prediction_helper (prediction_input):
       texts_p = []
-      prediction_input = input('You : ')
-      print (prediction_input)
+      #
       prediction_input = [letters.lower() for letters in prediction_input if letters not in string.punctuation]
       prediction_input = ''.join(prediction_input)
       texts_p.append(prediction_input)

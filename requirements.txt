@@ -6,3 +6,4 @@ scikit-learn
 keras
 pandas
 python-utils
+typing
